@@ -26,8 +26,8 @@ Beyond my academic pursuits, I am a passionate sports enthusiast. I enjoy playin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aqdhas07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aqdhas07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aqdhas ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqdhas ali" height="30" width="40" /></a>
+<a href="https://twitter.com/aqdhas07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aqdhas07" height="30" width="40" /></a>
 <a href="https://fb.com/aqdhas ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aqdhas ali" height="30" width="40" /></a>
 <a href="https://instagram.com/_aqdhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aqdhas" height="30" width="40" /></a>
 </p>
