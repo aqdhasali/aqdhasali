@@ -7,7 +7,7 @@
 </div>
 
 
-<h3 align="center">A Passionate Computer Science Undergraduate diving into Full Stack Developer.</h3>
+<h3 align="center">A Passionate Computer Science Undergraduate diving into Full Stack Development.</h3>
 <div align="center"><img src="Full Stack Developer.png"></img></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqdhasali&label=Profile%20views&color=0e75b6&style=flat" alt="aqdhasali" /> </p>
 
