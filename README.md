@@ -8,7 +8,7 @@
 
 
 <h3 align="center">A Passionate Computer Science Undergraduate diving into Full Stack Developer from Sri Lanka</h3>
-<div align="center"><img src="https://github.com/Mack2133/Mack2133/blob/main/full%20stack%20developer-01.png"></img></div>
+<div align="center"><img src="Full Stack Developer.png"></img></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqdhasali&label=Profile%20views&color=0e75b6&style=flat" alt="aqdhasali" /> </p>
 
 ## About Me
