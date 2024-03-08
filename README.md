@@ -14,8 +14,8 @@
 ## About Me
 I am a dedicated Computer Science undergraduate with a keen interest in Full Stack Development. My journey in the field of technology is driven by a passion for exploring cutting-edge solutions and delving into the intricacies of both front-end and back-end development. With a strong foundation in computer science principles and a thirst for continuous learning, I am committed to honing my skills and contributing meaningfully to the world of software development. Connect with me to explore innovative ideas and collaborate on exciting projects!
 
--Full Stack Development - I'm currently specializing in developing web applications from scratch using React.js, Javascript, Bootstrap, HTML5, CSS3 and more.
--Mobile Application Development - I'm also specializing in developing single platform mobile applications using Kotlin.
+-- Full Stack Development - I'm currently specializing in developing web applications from scratch using React.js, Javascript, Bootstrap, HTML5, CSS3 and more.
+-- Mobile Application Development - I'm also specializing in developing single platform mobile applications using Kotlin.
 
 ## Interests
 Beyond my academic pursuits, I am a passionate sports enthusiast. I enjoy playing football, hitting the gym, and exploring nature through hikes. These activities not only keep me physically active but also contribute to my overall well-being and creativity.
